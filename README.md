@@ -24,5 +24,5 @@ is a frontend tool to create interactive oral history presentations
 3. JSONLD structure from this [doc](https://docs.google.com/document/d/1EqombmFP43xpcXPqHfmafJctsns5FcXfQdYK_RKUR9w/edit)
 
 ### Milestone 3 - OH App integration
-1. Use this data with the OH app
+1. Use this data with the [OH app](https://github.com/janastu/ncbs-oral-history)
 2. Design layout and UX
