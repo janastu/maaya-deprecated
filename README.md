@@ -15,6 +15,7 @@ is a frontend tool to create interactive oral history presentations
 	"eng": "english translation"
 }
 ```
+[Oral history inteview link](http://team.servelots.com/my/pradeep/chaluvaraju/HampiGirijaKalyanaStorybyCraju.mp3)
 [Kannada text](http://gk.chaha.in/#gk-kannada) and [English translation](https://docs.google.com/document/d/1hKJPsB1KE3sJ4HOM2F3GW5-_Obb4so3vQYm9i3K1ElU/edit)
 
 ### Milestone 2 - Create a JSONLD 
