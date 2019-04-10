@@ -3,7 +3,7 @@ as in Illusion
 
 is a frontend tool to create interactive oral history presentations
 
-## process
+## Tasks
 * create transcript using [transcript tool](http://transcribe.test.openrun.net/)
 * export transcript in text format
 * convert text to JSON as in the structure 
