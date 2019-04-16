@@ -15,29 +15,105 @@
 		  <!-- image slider -->
 		    <link href="js/lightGallery-master/dist/css/lightgallery.min.css" rel="stylesheet">
 		<link href="js/lightGallery-master/dist/css/lg-transitions.min.css" rel="stylesheet">
+		<link rel="js/jquery-ui-1.12.1.custom/jquery-ui.css" type="text/css" href="">
 		<script type='text/javascript' src='js/underscore-min.js'></script>
 		<script type='text/javascript' src='transcript.js'></script>
+		<script type='text/javascript' src='resources.js'></script>
+		<script type="application/ld+json" id="page-schema">
+		
+		{ 
+		 "@context": "http://schema.org", 
+		 "@type": "Article",
+		 "headline": "Girija Kalyana of Hampi",
+		 "alternativeHeadline": "",
+		 "image": "http://example.com/image.jpg",
+		 "author": "Prof. Cheluvaraju Kannada University, Hampi", 
+		 "editor": "salus sage", 
+		 "genre": "culture", 
+		 "keywords": "girija, kalyana, shiva, parvathi", 
+		 "wordcount": "1120",
+		 "url": "http://www.example.com",
+		 "datePublished": "2015-09-20",
+		 "dateCreated": "2015-09-20",
+		 "dateModified": "2015-09-20",
+		 "description": "Prof. Cheluvaraju's narrative of the significance of Girija kalyana festival / ritual in the culture of Hampi and the people of it's sorroundings.",
+		 "articleBody": "You can paste your entire post in here, and yes it can get really really long.",
+		 "hasPart": [],
+		 "inLanguage": "English,Kannada",
+		 "license": "Requests for permission to quote for publication should be addressed to the Prof. Cheluvaraju, Kannada University, Hampi.",
+		 "mentions": [" Puranas", " Shiva", " Parvathi", " Rathi-Manmatha", " Pampa", " Pampapathi"],
+		 "spatialCoverage": [" Hampi", " Manmathkunda", " Hemakoota", " Ranganatha Temple"],
+		 "thumbnailUrl": "",
+		 "publisher": {
+		 	"@context": "https://schema.org",
+		 	"@type": "Organization",
+		 	"name": "Cheluvaraju",
+		 	"logo": "logo.jpg"
+		 	},
+		 	"mainEntity": "Girija Kalyana of Hampi",
+		 "audio": {
+			"@context": "https://schema.org",
+			"@type": "AudioObject",
+			"transcript": "url_to_transcript.com",
+			"bitrate": "",
+			"contentSize": "",
+			"contentUrl": "http://team.servelots.com/my/pradeep/chaluvaraju/HampiGirijaKalyanaStorybyCraju.mp3",
+			"duration": "1632",
+			"embedUrl": "url",
+			"endTime": "27:12",
+			"playerType": "",
+			"productionCompany": "Janastu",
+			"uploadDate": "",
+			"about": "",
+			"accountablePerson": "cheluvaraju",
+			"alternativeHeadline": "",
+			"audience": "",
+			"author": "",
+			"citation": "",
+			"contentLocation": "Hampi, Karnataka",
+			"contributor": "Pradeep, salus sage",
+			"editor": "",
+			"creator": "",
+			"funder": "",
+			"inLanguage": "kannada",
+			"license": "Requests for permission to quote for publication should be addressed to the Prof. Cheluvaraju, Kannada University, Hampi.",
+			"text": "",
+			"thumbnailUrl": "",
+			"translator": "@salussage"
+		}
+		}
 
+		</script>
+
+		<!-- script to expose the JSON to app -->
 		<script type="text/javascript">
-		<!-- config -->
-
+			OH = window.OH || {};
+			OH.jsonld = JSON.parse(document.getElementById('page-schema').innerHTML);
 		</script>
 </head>
 <body>
-
+	
 
 <!-- curatorial Note -->
 <div class="container">
     <div class="row">
-    	<h2 >Girija Kalyana of Hampi
-    	<small> - By Prof. Cheluvaraju Kannada University, Hampi</small></h2>
+    	<h2 id="page-heading">
+    	<script type="text/javascript">
+		document.write(OH.jsonld.headline);
+		</script>
+    	<small id="page-subheading"> - By 
+    	    	<script type="text/javascript">
+    			document.write(OH.jsonld.author);
+    			</script>
+    		</small>
+    	</h2>
   
 
-		<div class='col-md-4'  >
+		<div class='col-md-3'  >
 			<div class="column-wrap">
 			  			
 				    <!-- Audio player temmplate and COntainer -->
-				  <div id="player-wrap">
+				  <div id="player-wrap" class="ui-widget-content">
 				  	<!-- Audio player container -->
 				  	<div id="jquery_jplayer_1" class="jp-jplayer"></div>
 				    <div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
@@ -83,15 +159,43 @@
 			<!-- End player wrap -->
 
 			  <div id = 'copyright' class="column-wrap">
-				<p><b>Description: </b> Prof. Cheluvaraju's narrative of the significance of Girija kalyana festival / ritual in the culture of Hampi and the people of it's sorroundings".</p>
-				<p><b>Interviewee: </b> Prof. Cheluvaraju </p>
-				<p><b>Interviewer: </b> Pradeep. C</p>
-				<p><b>Time Period: </b> 2012-13</p>
-				
-				<p><b>Venue: </b> Janastu
-				<br><b>Session Focus: </b> Intangible Heritage rituals of Hampi</p>
+				<p><b>Description: </b> 
+			    	<script type="text/javascript">
+					document.write(OH.jsonld.description);
+					</script>
+				</p>
+				<p><b>Interviewee: </b> 
+				    	<script type="text/javascript">
+						document.write(OH.jsonld.author);
+						</script>
+						 </p>
+				<p><b>Contributor: </b> 
+				    	<script type="text/javascript">
+						document.write(OH.jsonld.audio.contributor);
+						</script>
+					</p>
+								
+				<p>
+				<b>Session Focus: </b> Intangible Heritage rituals of Hampi
+				</p>
+				<p>
+				<b>Mentions: </b>
+				    	<script type="text/javascript">
+						document.write(OH.jsonld.mentions);
+						</script>
+				</p>
+				<p>
+				<b>Spatial Coverage: </b>
+				    	<script type="text/javascript">
+						document.write(OH.jsonld.spatialCoverage);
+						</script>
+			</p>
 
-				<p style='font-size: 12px;font-family:google open sans font'>Requests for permission to quote for publication should be addressed to the TIFR Archivist. All uses of this manuscript are covered by a legal agreement between The TIFR Oral Archives and Professor Obaid Siddiqi. The manuscript is thereby made available for research purposes. Copyright has been assigned to the Tata Institute of Fundamental Research – Oral Archives, Mumbai © 2003
+
+				<p style='font-size: 12px;font-family:google open sans font'>
+			    	<script type="text/javascript">
+					document.write(OH.jsonld.license);
+					</script> 
 				</p>
 
 				
@@ -100,11 +204,44 @@
 			</div>
 		</div>
 
-		<div class = 'col-md-7' style=''>
-			
-			<h3><small> Subtitles </small> </h3>
-			<div id="subtitles"></div>
-			
+		<div class = 'col-md-9' style=''>
+			<div class='border-wrap'>
+				<div id='media-resource'>
+					<!--img src="http://gk.chaluvaraju.pantoto.org/static/uploads/mangalya_daarana2.JPG">
+
+					<img src="http://gk.chaluvaraju.pantoto.org/static/uploads/DSC01812.JPG">
+
+					<img src="http://gk.chaluvaraju.pantoto.org/static/uploads/DSC02396.JPG">
+
+					<img src="http://gka-photoshoot.pantoto.org/17April/thumbnail/500X500/IMG_9146.jpg">
+
+					<img src="http://gka-photoshoot.pantoto.org/17April/thumbnail/500X500/IMG_0165.jpg">
+
+					<img src="http://gk.chaluvaraju.pantoto.org/static/uploads/Teppotsava_Pond_located_left_side_of_the_Virupaksha_Temple_gk.jpg">
+
+					<img src="http://gka-photoshoot.pantoto.org/17April/IMG_9292.jpg"-->
+
+					
+				</div>
+				
+			</div>
+		</div>
+
+		<div class='col-md-5'>
+			<div class='border-wrap'>
+				<h3><small> Subtitles </small> </h3>
+				<div id="subtitles">
+				</div>
+			</div>
+		</div>
+		<div class = 'col-md-4' style=''>
+			<div class='border-wrap'>
+				<h3><small> Annotations </small> </h3>
+				<div id='annotations'></div>
+			</div>
+		</div>
+		
+
 		</div>
 	</div>
 
@@ -137,27 +274,11 @@
 <script type="text/javascript" src="js/jplayer/jplayer/jquery.jplayer.min.js"></script>
 
 <script type="text/javascript" src="js/jplayer/jplayer/jquery.jplayer.min.js"></script>
+
 <!--script type="text/javascript" src="libs/jplayer/jplayer/jquery.jplayer.swf"></script-->
 
 <script src="js/jplayer/add-on/jplayer.playlist.min.js"></script>
-
-<!--script>
-	//create table 
-	var tableTemplate = _.template(
-	"<thead><tr class='tableizer-firstrow'><th><center>Time</center></th><th><center>Speaker</center></th><th><center>Content</center></th></tr></thead><tbody>"+
-	"<% _.each(transcript, function(item, index, transcript) { %>"+
-		"<tr><td><a href='javascript:void(0)' class='timer' ><%=item.Time%></a></td><td><center><%=item.Speaker%></center></td><td><%=item.Content%></td></tr>"+
-	" <% }); %> "+
-	"</tbody>"
-	);
-	
-	var tableData = tableTemplate({
-		tranascript: transcript
-	});
-
-	document.getElementById("table").innerHTML = tableData
-
-</script-->
+<script src="js/jquery-ui-1.12.1.custom/jquery-ui.js"></script>
 
 <script>
 //get time data
@@ -187,6 +308,7 @@ $('.timer').click(function(e) {
   	OH.utilities = {};
   	OH.$audioPlayer = $("#jquery_jplayer_1");
   	OH.subtitlesElement = document.getElementById("subtitles");
+  	OH.resourcesCollection = document.getElementById("media-resource");
   	console.log("ready");
   	OH.init = function() {
 
@@ -196,13 +318,13 @@ $('.timer').click(function(e) {
   			i = index+1; 
   			if(i<arr.length) {
   				item.end = arr[i].start;
-  			} else item.end = "27:12"  
+  			} else item.end = OH.jsonld.audio.endTime  
   			return item;
   		});
 
   		//compile subtitle data with html and create DOm
   		OH.createSubtitle();
-
+  		OH.createResources();
   		// Initialize Jplayer and bind audio events
   		OH.initPlayer();
   	}
@@ -247,26 +369,51 @@ $('.timer').click(function(e) {
   	 // subtile Dom update data
   	 
   	 OH.createSubtitle = function()
-  	             {
-  	                 var element;
-  	                 //console.log(transcript, "transcript in subtitle");
-  	                 for (var i = 0; i < OH.data.length; i++) {
-  	                     element = document.createElement('p');
-  	                     element.setAttribute("id", "c_" + i);
-  	                     element.setAttribute("class", "lead");
-  	                     element.innerText = OH.data[i].start + " - " + OH.data[i].text + " ";
-  	                     element.style.display = 'none';
-  	                     OH.subtitlesElement.appendChild(element);
-  	                 }
-  	             }
+	     {
+	         var element;
+	         //console.log(transcript, "transcript in subtitle");
+	         for (var i = 0; i < OH.data.length; i++) {
+	             element = document.createElement('p');
+	             element.setAttribute("id", "c_" + i);
+	             element.setAttribute("class", "playing");
+	             element.innerText = OH.data[i].start + " - " + OH.data[i].text + " ";
+	             element.style.display = 'none';
+	             OH.subtitlesElement.appendChild(element);
+	         }
+	     }
 
+	OH.createResources = function() {
+		var element;
+		
+		for (var i = 0; i < resources.length; i++) {
+			for(var j=0; j < resources[i].resources.length; j++){
+				if(resources[i].resources[j].type === "image"){
+					element = document.createElement('img');
+					element.setAttribute("id", "r_" + i);
+					element.setAttribute("class", "playing");
+					element.setAttribute("src", resources[i].resources[j].url);
+				}
+				else if(resources[i].resources[j].type === "embed"){
+					element = document.createElement('div');
+					element.setAttribute("id", "r_" + i + j);
+					element.setAttribute("class", "playing");
+					element.innerHTML = resources[i].resources[j].html;
+					console.log(element);
+				}
+				element.style.display = 'none';
+				OH.resourcesCollection.appendChild(element);
+			}
+			
+			
+		}
+	}
   	OH.initPlayer = function(){
   		OH.$audioPlayer.jPlayer({
   		  ready: function () {
   		    $(this).jPlayer("setMedia", {
   		      title: 'Girija Kalyana of Hampi.',
-  		      mp3: 'http://team.servelots.com/my/pradeep/chaluvaraju/HampiGirijaKalyanaStorybyCraju.mp3',
-  		      artist: 'by Prof. Cheluvaraju from Kannada University, Hampi.'
+  		      mp3: OH.jsonld.audio.contentUrl,
+  		      artist: OH.jsonld.author
   		    });
 
 		      $(this).bind($.jPlayer.event.timeupdate, function(event) {
@@ -276,7 +423,7 @@ $('.timer').click(function(e) {
 	      	 		//console.log("expected transcrript item", element, index, array);
 	      	 
 				// hide stale data
-				if($(OH.subtitlesElement).find('.lead:visible').length > 1){
+				if($(OH.subtitlesElement).find('.playing:visible').length > 1){
 				
 					$(OH.subtitlesElement.children[index]).siblings().css('display', 'none');
 					//$(OH.subtitlesElement).filter(':visible').toggle('display');
@@ -289,6 +436,21 @@ $('.timer').click(function(e) {
                }  
                                    	 
 	      	 });
+
+      	 resources.forEach(function(element, index, array){
+      	 	//hide stale data
+      	 	if($(OH.resourcesCollection).find($('[id^=r_]:visible')).length >1){
+      	 		$('[id^=r_'+index+']').css('display', 'none');
+      	 	}
+
+      	 	//show relevant data
+      	 	if( event.jPlayer.status.currentTime >= OH.utilities.hmsToSecondsOnly(element.start) && event.jPlayer.status.currentTime <= OH.utilities.hmsToSecondsOnly(element.end) ) {
+      	 		console.log("if trye", $('[id^=r_'+index+']'), index);
+      	 		$('[id^=r_'+index+']').css('display', 'block');
+      	 			    //OH.resourcesCollection.children[index].style.display ='block';                		    
+      	 	}  
+
+      	 })
 
 		   });
   		 },
@@ -310,6 +472,25 @@ $('.timer').click(function(e) {
   });
 </script>
 
+<!-- UI code -->
+<!--script type="text/javascript">
+	$('#player-wrap, .border-wrap')
+	.draggable({
+		addClasses: true,
+		classes: {
+		  "ui-draggable": "highlight"
+		},
+		cursor: "crosshair"
+	});
+
+	$('.border-wrap').resizable({
+		addClasses: true,
+		classes: {
+		  "ui-draggable": "highlight"
+		},
+		cursor: "crosshair"
+	});
+</script-->
 
 </body>
 
