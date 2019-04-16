@@ -16,7 +16,7 @@
 	width:100%;
 }
 .column-wrap{
-	margin-top:40px;
+	margin-top:15px;
 }
 .image-container{
 	height:600px;
@@ -176,8 +176,8 @@
 	 	/*border-style: solid;
 	 	border-color: #000000;
 	    box-shadow: 2px 2px 3px grey;*/
-	    color: rgb(51,51,51)
-	    font-size:17px !important;
+	    color: rgb(51,51,51);
+	    font-size: 13px !important;
 	    font-family: 'Open Sans', sans-serif;
 
 	}
@@ -188,5 +188,27 @@
 		color: rgb(51,51,51);
 	}
 
+.border-wrap {
+	border: 1px solid #f0f0f0;
+	padding:15px;
+	margin:2px;
+	min-height:50vh;
+}
 
+#subtitles {
+	max-height:29vh;
+	overflow-y: scroll;
+}
 
+#media-resource{
+	display: flex;
+	flex-wrap: nowrap;
+	overflow-x: auto;
+}
+
+#media-resource img {
+	width: 450px;
+	height: auto;
+	flex: 0 0 auto;
+	padding: 5px;
+}
