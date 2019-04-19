@@ -13,7 +13,7 @@ Now we'll have to do few tasks for A/B Testing for the version.
 
 1. Let's consider the Interview of Chandan Mitra
 
-	a. [Transcript](http://wiki.janastu.org/wiki/.NjY3.MTU) of the interview. This data needs to be prepared to the structure of [transcript edited into valid json](transcript edited into valid json.json)
+	a. [Transcript](http://wiki.janastu.org/wiki/.NjY3.MTU) of the interview. This data needs to be prepared to the structure of [transcript edited into valid json](transcript%20edited%20into%20valid%20json.json)
 
 	b. [Audio](https://longemergency.demx.in/assets/audio-new/Chandan%20Mitra%20interview%20with%20Farah%20Yameen.mp3) of the interview
 
