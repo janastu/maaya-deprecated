@@ -83,7 +83,7 @@ window.resources = [{
 	"resources": [
 	{
 		"type": "image",
-		"tags": ["Oral Narrators of Hampo"],
+		"tags": ["Oral Narrators of Hampi"],
 		"url": "http://team.servelots.com/my/pradeep/girijakalyana/narrators/narrators2.JPG"
 	}
 	]
