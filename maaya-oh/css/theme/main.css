@@ -192,7 +192,7 @@
 	border: 1px solid #f0f0f0;
 	padding: 0px 15px 0px 15px;
 	margin:2px;
-	min-height:50vh;
+	/*min-height:50vh;*/
 }
 
 .border-wrap-short {
