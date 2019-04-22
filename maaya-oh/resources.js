@@ -147,6 +147,11 @@ window.resources = [{
 		"type": "image",
 		"tags": ["Emergency"],
 		"url": "https://s3.scoopwhoop.com/anj/duhh/466241227.jpg"
+	},
+	{
+		"type": "image",
+		"tags": ["book-ref"],
+		"url": "img/left-right-and-centre.png"
 	}
 	]
 },
