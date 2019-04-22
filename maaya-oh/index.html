@@ -311,6 +311,7 @@ $('.timer').click(function(e) {
   	OH.$audioPlayer = $("#jquery_jplayer_1");
   	OH.subtitlesElement = document.getElementById("subtitles");
   	OH.resourcesCollection = document.getElementById("media-resource");
+  	OH.annotations = document.getElementById("annotations");
   	console.log("ready");
   	OH.init = function() {
 
@@ -327,6 +328,7 @@ $('.timer').click(function(e) {
   		//compile subtitle data with html and create DOm
   		OH.createSubtitle();
   		OH.createResources();
+  		OH.createNotes();
   		// Initialize Jplayer and bind audio events
   		OH.initPlayer();
   	}
@@ -416,6 +418,17 @@ $('.timer').click(function(e) {
 			
 		}
 	}
+	OH.createNotes = function(){
+		var element;
+		for (var i = 0; i < OH.data.length; i++) {
+		    element = document.createElement('p');
+		    element.setAttribute("id", "n_" + i);
+		    element.setAttribute("class", "playing");
+		    element.innerText = OH.data[i].tag;
+		    element.style.display = 'none';
+		    OH.annotations.appendChild(element);
+		}
+	}
   	OH.initPlayer = function(){
   		OH.$audioPlayer.jPlayer({
   		  ready: function () {
@@ -437,11 +450,16 @@ $('.timer').click(function(e) {
 					$(OH.subtitlesElement.children[index]).siblings().css('display', 'none');
 					//$(OH.subtitlesElement).filter(':visible').toggle('display');
 				}
-
+				//hide stale annotations
+				if($(OH.annotations).find('.playing:visible').length > 1){
+				
+					$(OH.annotations.children[index]).siblings().css('display', 'none');
+				}
 				// show relevant data
                if( event.jPlayer.status.currentTime >= OH.utilities.hmsToSecondsOnly(element.start) && event.jPlayer.status.currentTime <= OH.utilities.hmsToSecondsOnly(element.end) ) {
                			  //console.log("if trye", OH.subtitlesElement.children[index], index);
-               		    OH.subtitlesElement.children[index].style.display ='block';                		    
+               		    OH.subtitlesElement.children[index].style.display ='block'; 
+               		    OH.annotations.children[index].style.display = 'block';    
                }  
                                    	 
 	      	 });
