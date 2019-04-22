@@ -2,43 +2,43 @@ window.transcript = [{
 	"start": "0:01",
 	"kan": "",
 	"text": "So today is the 2nd of June and I'm interviewing Chandan Mitra for the Archives of the Political.",
-	"tag": ""
+	"tag": "Background of Chandan Mitra and his time in Delhi University during the Emergency."
 },
 {
 	"start": "0:09",
 	"kan": "",
 	"text": "So we'll begin with your college days and the impositions of Emergency; and what was happening in North Campus at that point of time.",
-	"tag": "" 
+	"tag": "North Campus a vibrant place" 
 },
 {
 	"start": "0:18",
 	"kan": "",
 	"text": "Well North Campus was a very vibrant place and see when we joined the University in 1972, you see, from that time onwards there was a lot of unrest in the country.",
-	"tag": "" 
+	"tag": "general unrest in India from 1972" 
 },
 {
 	"start": "0:34",
 	"kan": "",
 	"text": "Mrs Gandhi had won a thumping victory in 1971 but somehow her popularity started to decline very soon.",
-	"tag": ""
+	"tag": "1972-73 lots of strikes, price rise, discontent"
 },
 {
 	"start": "0:47",
 	"kan": "",
 	"text": "So 1972-73 we had a lot of unrest in terms of strikes, price rise, agitations against that ... this went on till 1974 when you had a landmark railway strike. And the railway strike...all India railway strike was led by George Fernandes who was a firebrand leader, with a lot of following in the University. He was a socialist, so he distanced himself from the organised Left as well as the organised Right.",
-	"tag": ""
+	"tag": "1974 Railway strike by George Fernandes."
 },
 {
 	"start": "1:23",
 	"kan": "",
 	"text": "So he had his own kind of politics to pursue but he was a frequent visitor to Delhi University; and we all loved to hear him because he was a firebrand speaker...he used to charge everybody up; and he was one of those strident anti-Mrs Gandhi and anti-Nehru family persons.",
-	"tag": ""
+	"tag": "On George Fernandes and his nature, political inclinations towards socialist"
 },
 {
 	"start": "1:47",
 	"kan": "",
 	"text": "So he was a big draw and I think everybody was feeling that ferment...everybody felt that something big was happening in the country in terms of opposition to the Government. Railway strike happened...we all felt it very much. ",
-	"tag": ""
+	"tag": "away from Left and Right"
 },
 {
 	"start": "2:02",
@@ -716,71 +716,71 @@ window.transcript = [{
 	"start": "54:31",
 	"kan": "",
 	"text": "copy??? (NOTE: SOUNDS LIKE 'COPY'   but check) from there in any case. Ashish Ray who was in Telegraph in those days, he had told me...And I knew him through my Telegraph sources in Calcutta. He told me that from time to time you write something. So I would write for Telegraph and sometimes...sometimes ... yeah I wrote for a few magazines here and there.  And then when Oppenheimer told me this, I thought 'okay...not a bad idea.' So I shot off letters to various places...Times of India, Statesman and so on. Statesman I held in very high esteem because I am from Calcutta. I've grown up reading the Statesman and Statesman was very different Statesman from what you see today. And Statesman responded. C. Irani wrote to me saying 'if I happen to be in India, could I come over for an interview?' I came...I was actually...some seminar was going on, I was invited. So I came to Calcutta...went and met him and got a job on a platter. So when I finished, I came back and joined Statesman in Calcutta. That was in 1984. You see still, I mean, Emergency was over for some time. In '77 it lifted and this I'm talking seven years later but it had left an impact on journalism…Emergency.",
-	"tag": ""
+	"tag": "Once D.Phil was about to get over, one of his heads suggested that CM return to India and get into journalism because of his flare for writing"
 },
 {
 	"start": "55:47",
 	"kan": "",
 	"text": "You see my basic observation in this was prior to the Emergency and during the Emergency whatever journalism we had in India was very timid.  People were afraid. Journalists were afraid. There was a real fear of state power and nobody would have the courage to actually call a spade a spade. And government was a feared institution. Indira Gandhi was a feared personality. Now after the Emergency suddenly the fear evaporated...fear eva... just evaporated. Indira Gandhi was a clay...fallen clay model. Sanjay Gandhi in any case, you know, was a hated figure and he died within a year anyway. And there was I would in the Chinese",
-	"tag": ""
+	"tag": "CM joins Statesman in Calcutta after his interview with C. Irani."
 },
 {
 	"start": "56:46",
 	"kan": "",
 	"text": "???? (WORD AFTER CHINESE UNCLEAR) words- A thousand flowers bloomed.  And a thousand...hundred schools of thought contended. So by the time I came to journalism, you know, it was probably gone a little overboard. The pendulum had swung from one extreme of the Emergency to another extreme where you could write anything and against anybody and ...and get away with it. And the harsher your language the more you were kind of .... ----",
-	"tag": ""
+	"tag": "Did extensive coverage of insurgency in Punjab---travelled to Punjab to report from ground."
 },
 {
 	"start": "57:17",
 	"kan": "",
 	"text": ":...celebrated? ---- ..... yeah. But I also came into journalism at a time when insurgencies broke out all of a sudden in a big way. And Punjab was burning ...'84. That very year Indira Gandhi was selected. Punjab was in flames. And I wanted to go to Punjab. I told my editor that 'please allow me'. He said but, you know, 'you don't know the language.' I said, 'look I've lived in Delhi long enough, I can manage the language and but I am in any case a student of history, I'm very interested and all.' So when I said, he allowed me. So I covered Punjab extensively from 1984-87...till it ended.",
-	"tag": ""
+	"tag": "On impact of Emergency on journalism"
 },
 {
 	"start": "58:04",
 	"kan": "",
 	"text": "And those days I was coming and going out of Delhi. Then Girilal Jain in Times of India noticed my writing because he was very interested in Punjab. And one day he called me in Calcutta and asked me to come over. So I came to Delhi, met him. And he offered me a job immediately again. So it was a bit of a scene to break away from Statesman. They had been very good to me and had given me my first job.",
-	"tag": ""
+	"tag": "it pushed the reporters and journalists to report in detail post-Emergency."
 },
 {
 	"start": "58:30",
 	"kan": "",
 	"text": "But then, you know, one has to move on. And I wanted to come back to Delhi anyway. So I came back to Delhi and joined Times of India. Thereafter, there had not been any kind of that challenge that we faced. I would say the generation which was ...had lived through the Emergency, you know, people like Kuldip Nayar, and B. G. Verghese, and so on, they were people who really felt the impact of the Emergency because they were there in editorial positions and had to very often they had to submit and succumb to their owners and to the censors; and while they fumed inside they had to follow orders. We were lucky in that sense that we were born into journalism in a free air.",
-	"tag": ""
+	"tag": " There was not just one strand of opinion in reporting but several styles"
 },
 {
 	"start": "59:20",
 	"kan": "",
 	"text": "As a result of the struggles of our preceding generation, we inherited a journalistic environment which was free and which I think is something that we cherished.",
-	"tag": ""
+	"tag": "the control over the freedom of press during Emergency pushed journalists to become often uncritical of the BJP."
 },
 {
 	"start": "59:31",
 	"kan": "",
 	"text": "Right! Okay, last question. If I were to ask you to compare journalism immediately post-Emergency and journalism now when a lot of people are again talking about how freedom of speech is being curbed in various ways, which are not direct but are indirect...what would...what would you say?",
-	"tag": ""
+	"tag": "CM on his days of reporting on Punjab."
 },
 {
 	"start": "59:47",
 	"kan": "",
 	"text": "Look, after the Emergency I think there was absolutely freedom was very much there. It opened up overnight and there was really no curb. And now-a-days there's no curb today. I don't sense it at all and don't ...nobody who's an established newspaper or magazine will say this. It is some sections who are I woul...I mean having agitational tendency, which is perfectly legitimate and credible, they may say that they are censoring this...much maligned word 'intolerance' but I don't see it. I don't see it because press seems to be quite open and critical of the government. When actually in fact after the Emergency, the situation was a little strange. There was so much antipathy towards Mrs Gandhi and Sanjay Gandhi that journalists became very pro-Janta Party, and uncritical of Morarji Desai and that....whole bunch of, you know, I would say obscure",
-	"tag": ""
+	"tag": "On being offered a job at Times of India by Girilal Jain."
 },
 {
 	"start": "60:52",
 	"kan": "",
 	"text": "who were in power in those days but media...no journalist would criticise, 'Oh! good at least some people, you know, who are not going to throw you into jail. ' So in the process I think there was less discerning journalists then than now. Now toh people are acting as if you like and nobody is going to throw you into jail for writing. There's no Emergency. There may be some people who are...who feel that they should be able to write even more but that's because times have changed and the parameters of freedom have been pushed wider. But otherwise there's no...but in fact I would say that immediately after the Emergency, it was a bit of a biased journalism. Journalism was biased in favour of the Janta Party, and against the Congress Party, which ideally we're talking about objective journalism was really not the case. But see then that always happen...right now see there's a bias against the BJP in mostly in English language newspapers. But thik hai...these things happen but I think that I would still say salute to the... those who fought the Emergency and bequeathed upon us this dawn of freedom. ",
-	"tag": ""
+	"tag": "On the legacy left by Kuldip Nayar, B. G. Verghese and so on when they were forced to be silent during the Emergency."
 },
 {
 	"start": "62:03",
 	"kan": "",
 	"text": "Right, okay! Thank you. Was there anything else that you want to say about the Emergency?",
-	"tag": ""
+	"tag": "On curbing freedom of press now (2016-16) by the Government."
 },
 {
 	"start": "62:06",
 	"kan": "",
 	"text": "Not really! I think you've covered the most extensive interview I've given.",
-	"tag": ""
+	"tag": "CM doesn’t feel that the Government of India is imposing any kind censorship on the press."
 }];
