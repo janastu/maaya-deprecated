@@ -386,14 +386,21 @@ $('.timer').click(function(e) {
 
 	OH.createResources = function() {
 		var element;
-		
+		var el_img;
+
 		for (var i = 0; i < resources.length; i++) {
 			for(var j=0; j < resources[i].resources.length; j++){
 				if(resources[i].resources[j].type === "image"){
-					element = document.createElement('img');
-					element.setAttribute("id", "r_" + i);
+					element = document.createElement('a');
+					element.setAttribute("href", resources[i].resources[j].url);
 					element.setAttribute("class", "playing");
-					element.setAttribute("src", resources[i].resources[j].url);
+					element.setAttribute("id", "r_" + i);
+					element.setAttribute("target", "_blank");
+					el_img = document.createElement('img');
+					//el_img.setAttribute("id", "r_" + i);
+					//el_img.setAttribute("class", "playing");
+					el_img.setAttribute("src", resources[i].resources[j].url);
+					element.appendChild(el_img);
 				}
 				else if(resources[i].resources[j].type === "embed"){
 					element = document.createElement('div');
