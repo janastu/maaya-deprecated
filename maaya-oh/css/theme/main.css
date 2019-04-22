@@ -220,9 +220,11 @@
 #media-resource img {
 	width: 350px;
 	height: auto;
-	/*flex: 0 0 auto;*/
+	flex: 0 0 auto;
 	object-fit: contain;
 	padding: 5px;
+	align-self: center;
+
 }
 
 #media-resource a:hover, #media-resource a:focus{
