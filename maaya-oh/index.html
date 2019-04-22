@@ -389,6 +389,7 @@ $('.timer').click(function(e) {
 	OH.createResources = function() {
 		var element;
 		var el_img;
+		var el_caption;
 
 		for (var i = 0; i < resources.length; i++) {
 			for(var j=0; j < resources[i].resources.length; j++){
@@ -398,11 +399,16 @@ $('.timer').click(function(e) {
 					element.setAttribute("class", "playing");
 					element.setAttribute("id", "r_" + i);
 					element.setAttribute("target", "_blank");
+
 					el_img = document.createElement('img');
 					//el_img.setAttribute("id", "r_" + i);
 					//el_img.setAttribute("class", "playing");
 					el_img.setAttribute("src", resources[i].resources[j].url);
+
+					el_caption = document.createElement('p');
+					el_caption.innerHTML = 'Tags: '+resources[i].resources[j].tags.toString();
 					element.appendChild(el_img);
+					element.appendChild(el_caption);
 				}
 				else if(resources[i].resources[j].type === "embed"){
 					element = document.createElement('div');
@@ -472,7 +478,7 @@ $('.timer').click(function(e) {
 
       	 	//show relevant data
       	 	if( event.jPlayer.status.currentTime >= OH.utilities.hmsToSecondsOnly(element.start) && event.jPlayer.status.currentTime <= OH.utilities.hmsToSecondsOnly(element.end) ) {
-      	 		console.log("if trye", $('[id^=r_'+index+']'), index);
+      	 		//console.log("if trye", $('[id^=r_'+index+']'), index);
       	 		$('[id^=r_'+index+']').css('display', 'block');
       	 			    //OH.resourcesCollection.children[index].style.display ='block';                		    
       	 	}  

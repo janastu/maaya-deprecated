@@ -17,7 +17,7 @@ window.resources = [{
 	},
 	{
 			"type": "image",
-			"tags": ["Indira"],
+			"tags": ["Indira Gandhi and Congress"],
 			"url": "http://guruprasad.net/wp-content/uploads/2014/03/indira_vote_billboard.jpg"
 		}
 	]
