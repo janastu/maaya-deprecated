@@ -44,175 +44,175 @@ window.transcript = [{
 	"start": "2:02",
 	"kan": "",
 	"text": "It was, I remember, vacations had started in the University at that time and we had great difficulty getting to our hometowns because half the trains were not running. And that meant primarily no food grain, fuel ...everything was getting blocked...not reaching...so this added to the general unrest in the country.",
-	"tag": ""
+	"tag": "visited Delhi University and spoke"
 },
 {
 	"start": "2:28",
 	"kan": "",
 	"text": "I think Mrs Gandhi over reacted and that point of time, she went and experimented with the nuclear explosion in Pokhran in 1974 and it was basically everybody felt, so we ",
-	"tag": ""
+	"tag": "Nuclear tests in Pokhran in 1974 under Indira Gandhi believed to be a diversionary tactic to take focus away from the railway strike."
 },
 {
 	"start": "2:44",
 	"kan": "",
 	"text": "...this is received wisdom because we were not really active...what our seniors were talking about in the Campus was that- she did this as a diversionary measure",
-	"tag": ""
+	"tag": "idea of something big taking place in the country."
 },
 {
 	"start": "2:53",
 	"kan": "",
 	"text": "because railway strike had galvanised the working class students were in unrest everywhere. Jayaprakash Narayan was...had led the Nav Nirman Movement in Bihar and Bihar there were lot of protest and strikes. In Gujarat there was a considerable amount of unrest both on the campuses as well as, you know, a kind of a caste clashes in various parts. So together '73-'74 was a period of enormous unrest which you could feel particularly in the University Campuses and Delhi University though not as politically volatile as JNU or Calcutta University, we definitively felt lot of it in discussion in the Coffee House, in the cafes was very animated and centred around Mrs Gandhi's",
-	"tag": ""
+	"tag": "Jayaprakash Narayan leading the Nav Nirman Movement in Bihar --- protest and strikes, campus unrest, caste clashes --- 1973-74 period of unrest."
 },
 {
 	"start": "3:50",
 	"kan": "",
 	"text": "difficulties and Mrs Gandhi was never a popular figure in the University campuses because basically, you know, there was a streak of rebelliousness",
-	"tag": ""
+	"tag": "-Mrs Gandhi becoming unpopular but rebelliousness was of anti-authoritarian type."
 },
 {
 	"start": "4:01",
 	"kan": "",
 	"text": "And the rebelliousness was there....nothing particularly against Mrs Gandhi but it was an anti-authoritarian kind of sentiment so everybody kind of enjoyed if Mrs Gandhi suffered from set-backs. So that was the kind of mood prior to the Emergency.",
-	"tag": ""
+	"tag": "Reverberations especially felt in JNU, Calcutta University."
 },
 {
 	"start": "4:18",
 	"kan": "",
 	"text": "This was the build-up really and then suddenly one fine morning the Emergency was clamped.",
-	"tag": ""
+	"tag": "Coffee Houses as places latest news could be gathered. "
 },
 {
 	"start": "4:25",
 	"kan": "",
 	"text": "Of course then....but there was ...would also [a whistle blows- phone- interrupting the interview] --- sorry....(interview continues) So you were talking about (a) one JP Movement and...the JP Movement was big amongst students all over the....I mean at least the north India certain and there is ...was even at that time  a considerable Bihari population among the campus. What were the conversations that were happening about the JP Movement?",
-	"tag": ""
+	"tag": "a gradual build-up and Emergency suddenly declared."
 },
 {
 	"start": "4:56",
 	"kan": "",
 	"text": "To be honest the JP Movement itself, I don't think, it really kind of a...got traction in Delhi University. Yes, you're right...there were a large number of Bihari students and the sympathies were obvious but the University was still dominated by more by local Delhi students, basically Punjabis, by",
-	"tag": ""
+	"tag": "More on JP Movement."
 },
 {
 	"start": "5:20",
 	"kan": "",
 	"text": "a ??? and the intellectual leadership of Delhi University was always Leftist, and dominated by Bengalis. But the real you know",
-	"tag": ""
+	"tag": "JP Movement did not get as much attention in North Campus due to the origin of the students---DU leadership usually more Leftist and led by Bengalis in addition to the ABVP and the Right-wing inclinations. "
 },
 {
 	"start": "5:32",
 	"kan": "",
 	"text": "the voters and you look at the organised structure that was dominated by ABVP and the Right-wing. So it really was in ...Delhi University was in... it’s difficult to categorise Delhi University. JP Movement...yes...everybody had support and sympathy but the support and sympathy was not really translated into action on the ground because ABVP controlled the unions and the intellectual ferment was largely Leftist and they will be like JP...so it was kind of somewhere in between; and you know, Congress had a fairly strong students' wing.",
-	"tag": ""
+	"tag": "ABVP controlled the unions and Left dominated the intellectual circles."
 },
 {
 	"start": "6:12",
 	"kan": "",
 	"text": "And they in fact were probably quite active organising so-called anti-fascist protests and so on and dubbing JP as a fascist but look, you know, there was a lot of ferment as I was telling you...again and again. They were seminars, there were discussions....people were coming and talking to students. George Fernandes I'd mentioned earlier...he was a fairly regular visitor to the campus and within the campus there were quite a few small gatherings and rallies and group discussions which",
-	"tag": ""
+	"tag": "Congress too had a fairly strong hold among students."
 },
 {
 	"start": "6:48",
 	"kan": "",
 	"text": "how about around the country, the falling economy, the failure of Mrs Gandhi's policies and so on so forth. But I wouldn't say anything ...DU was not really directly part of the Nav Nirman agitation or JP's Sampoorna Kranti but heard about this...the wall writings all over...about Sampoorna Kranti...total revolution...nobody understood what all this meant. But JP was a venerated name. There were others who would take out processions in his name but they were not...nothing major ...I don't think really gripped DU's attention to the extent that it did in Bihar or Gujarat.",
-	"tag": ""
+	"tag": "Congress dubbed JP as fascist. much discussions on the campus about politics and the problems faced by the country."
 },
 {
 	"start": "7:31",
 	"kan": "",
 	"text": "What about the day when the Allahabad court judgement came out before the Emergency was actually declared? What was happening on the campus at that point of time? How were the political groups divided on that day?",
-	"tag": ""
+	"tag": "On Allahabad court judgement and reaction to it on the Campus."
 },
 {
 	"start": "7:44",
 	"kan": "",
 	"text": "Look, it so happened I was not in Delhi that day. But I took a train from Delhi....from Calcutta to come to Delhi that day...although it was fairly early but to get my admission in MA, I took the train from Calcutta in the evening ...no sorry...morning because when we reached Patna in the evening...somewhere around 5 O’clock or 6 O’clock in the evening, there were a few other DU students who were on the same train and same bogey...they incidentally all happened to be in Indian Administrative Service...all have just about retired from it by now...but we all in the same coach of this what is used to be known as the Deluxe and now known as Poorva Express. In Patna, we found the station...station completely deserted, which was strange. Actually I didn't know that Emergency had been imposed.",
-	"tag": ""
+	"tag": "Very little understanding in North Campus of Sampoorna Kranti."
 },
 {
 	"start": "8:43",
 	"kan": "",
 	"text": "nor did my fellow travellers. Patna was totally deserted...just police walking up and down...all railway, you know, vendors and chaiwallas shut...shutters down, and there was a sense of, you know, eerie calm.",
-	"tag": ""
+	"tag": "CM not in Delhi when Emergency was declared but on his way back from Calcutta."
 },
 {
 	"start": "9:04",
 	"kan": "",
 	"text": "So we got down from the platform, primary to get a cup of tea but also to find out what was ...what was happening. And then we asked a few people hanging around...coolies and so on ...so in very hushed tones, they told us, 'ki aap ko patna nahi? That JP has been arrested...all big leaders...BJP leaders...Atal ji, Advani ji...everybody has been arrested. Emergency has been clamped.' And so we were discussing- what is Emergency? Emergency, an external Emergency was in ...had been imposed long back...it was when India had a war with China. We didn't there was something called an internal Emergency. So ...but...we were very very disoriented because we couldn't figure out that why is it that nobody is there in station...it's completely dull and very ordered...everybody seemed to be afraid and hushed tone people are saying that all leaders have been arrested.",
-	"tag": ""
+	"tag": "CM’s impressions of his train journey to Delhi while trying to figure out what was happening"
 },
 {
 	"start": "10:10",
 	"kan": "",
 	"text": "So we came back to the train and one of us...somebody had a small radio...transistor tried repeatedly and managed to catch a whiff of BBC to get idea, just to know...the line used to be very bad...it used to crack all the time...the short waves but whatever we could figure out - was yes Emergency had been imposed...Indira Gandhi had said that the country is in the danger from within and fascist forces are conspiring to destabilise her government and democracy so it has been imposed and so all opposition leaders have been put behind bars and censorship has been imposed on the press. We managed to get this much in a very very kind of staccato manner after we got back into the compartment.",
-	"tag": ""
+	"tag": "CM on trying to figure out why Patna station was quiet and heavily patrolled."
 },
 {
 	"start": "11:01",
 	"kan": "",
 	"text": "I was still very confused in as to what Emergency meant except opposition leaders had all been arrested. Know from time to time during agitations opposition leaders had been arrested before but the magnitude of this did not quite hit us at that point of time. Anyways, next morning we were back in Delhi, and I failed to get a three-wheeler to go back...auto to back to College, the hostel. There were just hardly four or five auto-rickshaws standing outside New Delhi station....normally the place would be thronging and you've seen New Delhi station, how busy and bustling the place it is, so disorderly, and chaotic...nothing...absolutely silence...hardly anybody around and just a few autos.",
-	"tag": ""
+	"tag": "On hearing about the arrests and declaration of Emergency. "
 },
 {
 	"start": "11:54",
 	"kan": "",
 	"text": "And then they refused to go but would not ask for extra money either. So after sometime I decided to catch a bus. So eventually with the luggage and everything I somehow managed to get a bus and came to the college.",
-	"tag": ""
+	"tag": "On CM’s own understanding of what an Emergency was."
 },
 {
 	"start": "12:10",
 	"kan": "",
 	"text": "When I reached college afternoon...when I first realised the magnitude of the whole thing. Many of my friends had already come back to Delhi....they were...and they all rushed because I was supposed to be the politically active one, so they came to my room and started telling me - you know this has happened...that's happened, so and so got arrested, now the police patrolling all over, and all newspapers have appeared blank. One or two brought them copies of papers...one paper had ...you may have seen that 'Obituary of Democracy'. Then front page blank and you know it was very very disturbing- we'd never seen or imagined something like this. So we were very confused and then in the evening when I went to the Coffee House, which I usually always did, you found complete silence, people talking in hushed tones...very different from the Coffee House that we were used to.",
-	"tag": ""
+	"tag": "On description of ambiance of fear."
 },
 {
 	"start": "13:08",
 	"kan": "",
 	"text": "It was hustle and bustle and loud arguments and table thumping discussions...everybody talking very quietly and all things Emergency...it is like martial law and anybody can be arrested and nobody would get to know. We saw one or two suspicious looking people and sitting there in the corner who we had not seen before so we in hushed tones said- look that must be a spy- probably they weren't but you know at that point in time we were suspecting everybody. So by the end of the first day that was the day it has actually been imposed, when",
-	"tag": ""
+	"tag": "Getting access to a transistor in the train and hearing about the declaration of Emergency and reasons why it was being imposed."
 },
 {
 	"start": "13:44",
 	"kan": "",
 	"text": "???? we were in a state of I would say disorientation, so after from the Coffee House, I walked to Model Town where a friend of mine used to stay. And there, he told me because he was not a hosteller but he was my classmate and he used to live in a, you know, a normal colony...middle class colony. He told me that - look things are very serious; and says I used to be fond of, you know kind of, letting my steam off. He said, 'look I advise you...you just be quiet for a few days...preferably you stay here, don't go back to the campus. And let's see how things shape.'",
-	"tag": ""
+	"tag": "The magnitude of action against the political leaders not yet understood."
 },
 {
 	"start": "14:26",
 	"kan": "",
 	"text": "I did that actually. I got a bit scared by then because true that I was known to be a bit of an activist. I was not affiliated with any political party as such but yes I was an activist of sorts as much as is possible in St Stephen's College, which was a very sanitised kind of place.",
-	"tag": ""
+	"tag": "On CM’s experience of trying to get to the Hostel."
 },
 {
 	"start": "14:46",
 	"kan": "",
 	"text": "So I took my friend's advice and stayed back...go back to college for to attend classes and then go back to his house. Suddenly, you know, I was a very avid Hindi film fan, so every second-third day we would go and watch a movie either the morning show or the afternoon...noon matinee or whatever. Suddenly that week, fresh release, my friend and I went to see it at the Alpana Cinema which was in Model Town for one close to his house. We found all the black market",
-	"tag": ""
+	"tag": "On finally grasping the magnitude of Emergency."
 },
 {
 	"start": "15:19",
 	"kan": "",
 	"text": "(phone rings...too much disturbance)??? and many of them were known to me.",
-	"tag": ""
+	"tag": "On friends coming to visit CM and discussing politics and the going-ons of the Emergency."
 },
 {
 	"start": "15:49",
 	"kan": "",
 	"text": "Some of the black marketers were actually regulars...they were known to me; and my friend was...we were regulars and we would always buy black. They all disappeared. Generally asked the panwallas there- what has happened?- He said, 'aree everybody kind of disappeared because this Emergency...Emergency they can be arrested.' I said, 'what has Emergency got to do with ticket?' He said, 'aree sahab sab police has caught anybody and everybody. And put them in jail so no...no tickets is in black market.'",
-	"tag": ""
+	"tag": "CM’s impressions of Coffee House and the sense of gloom blanketing it."
 },
 {
 	"start": "16:25",
 	"kan": "",
 	"text": "Didn't ...couldn't see the film.",
-	"tag": ""
+	"tag": "On what Emergency implied."
 },
 {
 	"start": "16:28",
 	"kan": "",
 	"text": "What film was it?",
-	"tag": ""
+	"tag": "On suspicion of everyone."
 },
 {
 	"start": "16:29",
@@ -224,25 +224,25 @@ window.transcript = [{
 	"start": "16:35",
 	"kan": "",
 	"text": " ??? catch my diary [CROSS CHECK the Last three words]??? but it was something quite vague...nothing...it was a release of a movie but a",
-	"tag": ""
+	"tag": " friend in Model Town warning CM to pip his political opinions down because of the Emergency. "
 },
 {
 	"start": "16:43",
 	"kan": "",
 	"text": "....anyway we'd gone to see a night show; so we came out of a night show...went to the same panwalla to buy cigarettes and have a ;an...it was shut! So he used to always....this shop always used to be open because, you know, pan shops are normally supposed to close at eleven but near a cinema hall particularly, they would wait till the night show got over, which would be between quarter to twelve- to-twelve but till about twelve-thirty you could always get chai, cigarettes and pan at various identified joints and particularly near cinema halls. And Alpana cinema hall was a big driveway kind of thing and there were shops around the driveway...everything shut!",
-	"tag": ""
+	"tag": "CM not affiliated with any political party but local nonetheless."
 },
 {
 	"start": "17:31",
 	"kan": "",
 	"text": "It was like curfew. And we asked a few auto- rickshaw-wallas and bole, 'no no no...very clear ...cops came around 11 and shutters down. And they have warned nobody...used to keep shutters up after 11 anyday, they will be arrested immediately.' So this is the way gradually terror strike. And then the stories started multiplying by the word of mouth...very often complete exaggeration...no relation to the truth but this is how the rumour machine started kind of moving. There was this one rumour that somebody, which we heard in the college just in a day or two...that somebody in the bus was told to give up his seat. He was occupying a ladies' seat...a man. So he was told ki, 'bahi sahab, kursi choro.' So he said, 'jab woh kursi nahi chorti toh mei kyon choru.' See....nobody named. He said that, 'when she doesn't leave her kursi....chair, why should I.' And apparently he was arrested and slammed in the thana in Daryaganj and his family was  looking all over for him and finally found him in a terrible state...he'd been beaten black and blue, and dumped on the road by the police for saying something -- was it what he said ...what he actually did was...was this incident actually happened ... I've no idea; but this story spread like wildfire.",
-	"tag": ""
+	"tag": "Narration of strictness and arbitrary arrests of shopkeepers, black-market ticket sellers. "
 },
 {
 	"start": "19:06",
 	"kan": "",
 	"text": "I don't know who were the people who were spreading it. I don't know whether it was the official rumour machinery because, you know, this had a sterling effect.",
-	"tag": ""
+	"tag": "On implications of Emergency… conversations with the panwalla. "
 },
 {
 	"start": "19:14",
