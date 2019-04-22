@@ -28,7 +28,7 @@ window.resources = [{
 	"resources": [
 	{
 		"type": "image",
-		"tags": ["Emergency"],
+		"tags": ["Indira Gandhi convicted"],
 		"url": "http://guruprasad.net/wp-content/uploads/2014/06/indira_guilty.jpg"
 	},
 	{
@@ -38,12 +38,12 @@ window.resources = [{
 	},
 	{
 		"type": "image",
-		"tags": ["George Fernandes", "Railway strike"],
+		"tags": ["George Fernandes", " Railway strike"],
 		"url": "https://www.thetruepicture.org/wp-content/uploads/2019/01/1-24.jpg"
 	},
 	{
 		"type": "image",
-		"tags": ["George Fernandes", "Railway strike"],
+		"tags": ["George Fernandes", " Railway strike"],
 		"url": "https://smedia2.intoday.in/indiatoday/images/stories/1979May/railway_031214085802.jpg"
 	}]
 },
@@ -52,23 +52,23 @@ window.resources = [{
 	"end": "02:52",
 	"resources": [{
 		"type": "image",
-		"tags": ["Pokhran"],
+		"tags": ["Pokhran Nuclear Test"],
 		"url": 'https://akm-img-a-in.tosshub.com/indiatoday/indira_647_051816100754.jpg'
 	},
 	{
 		"type": "image",
-		"tags": ["Pokhran"],
+		"tags": ["Pokhran Nuclear Test"],
 		"url": 'http://images.newindianexpress.com/uploads/user/imagelibrary/2017/5/18/original/A_crater_marks_the_.jpg'
 	},
 	{
 		"type": "image",
-		"tags": ["Pokhran"],
+		"tags": ["Pokhran Nuclear Test"],
 		"url": "http://images.newindianexpress.com/uploads/user/imagelibrary/2017/5/18/original/Indira_Gandhi_then_nuclear.jpg"
 
 	},
 	{
 		"type": "image",
-		"tags": ["Pokhran"],
+		"tags": ["Pokhran Nuclear Test"],
 		"url": "http://images.newindianexpress.com/uploads/user/imagelibrary/2017/5/18/original/The_first_nuclear_bkl.jpg"
 
 	}
@@ -102,20 +102,20 @@ window.resources = [{
 	"resources": [
 	{
 		"type": "image",
-		"tags": ["Emergency"],
+		"tags": ["Indira Gandhi with Congress party members just before delcaring the state of Emergency "],
 		"url": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2016/10/29/514576-emergency-102816.jpg"
 	},
 	
 	{
 		"type": "image",
-		"tags": ["Sampoorna Kranti"],
+		"tags": ["JP", " Sampoorna Kranti"],
 		"url": "https://i0.wp.com/www.sahisamay.com/wp-content/uploads/2016/08/jayprakash-narayan-sampoorn-kranti.jpg?w=599"
 	}
 	]
 },
 {
 	"start": "07:31",
-	"end": "16:027",
+	"end": "16:27",
 	"resources": [
 	{
 		"type": "image",
@@ -150,7 +150,7 @@ window.resources = [{
 	},
 	{
 		"type": "image",
-		"tags": ["book-ref"],
+		"tags": ["Excerpt from the book Left, Right and Centre."],
 		"url": "img/left-right-and-centre.png"
 	}
 	]
