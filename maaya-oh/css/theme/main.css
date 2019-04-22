@@ -211,6 +211,10 @@
 	display: flex;
 	flex-wrap: nowrap;
 	overflow-x: auto;
+	flex-direction: row;
+	text-align: center;
+	vertical-align: middle;
+	align-items: center;
 }
 
 #media-resource img {
@@ -219,4 +223,12 @@
 	/*flex: 0 0 auto;*/
 	object-fit: contain;
 	padding: 5px;
+}
+
+#media-resource a:hover, #media-resource a:focus{
+	text-decoration: none;
+}
+
+#media-resource p {
+	color:black;
 }
