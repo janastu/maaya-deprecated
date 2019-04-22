@@ -207,8 +207,9 @@
 }
 
 #media-resource img {
-	width: 450px;
+	width: 350px;
 	height: auto;
-	flex: 0 0 auto;
+	/*flex: 0 0 auto;*/
+	object-fit: contain;
 	padding: 5px;
 }
