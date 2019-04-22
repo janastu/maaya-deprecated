@@ -1,90 +1,189 @@
 window.resources = [{
-	"start": "00:02",
-	"end": "01:13",
+	"start": "00:01",
+	"end": "00:09",
 	"resources": [{
 		"type": "image",
-		"tags": ["Girija Kalyana"],
-		"url": "http://gk.chaluvaraju.pantoto.org/static/uploads/mangalya_daarana2.JPG"
+		"tags": ["Chandan Mitra"],
+		"url": "https://archive.india.gov.in/govt/mpimages/rajyasabha/p1923.jpg"
 	}]
 },
 {
-	"start": "01:14",
-	"end": "01:29",
+	"start": "00:10",
+	"end": "01:01",
 	"resources": [{
-		"type": "webpage",
-		"tags": ["Tunga Bhadra River"],
-		"url": "https://en.wikipedia.org/wiki/Tungabhadra_River"
+		"type": "image",
+		"tags": ["North Campus"],
+		"url": "https://www.mapsofindia.com/maps/delhi/north-campus.jpg"
+	},
+	{
+			"type": "image",
+			"tags": ["Indira"],
+			"url": "http://guruprasad.net/wp-content/uploads/2014/03/indira_vote_billboard.jpg"
+		}
+	]
+},
+{
+	"start": "01:02",
+	"end": "02:27",
+	"resources": [
+	{
+		"type": "image",
+		"tags": ["Emergency"],
+		"url": "http://guruprasad.net/wp-content/uploads/2014/06/indira_guilty.jpg"
 	},
 	{
 		"type": "image",
-		"tags": ["Virupaksha Temple"],
-		"url": "http://gkdemo.vijayanagara.in/gk-swt-demo/static/uploads/Teppotsava_Pond_located_left_side_of_the_Virupaksha_Temple.jpg"
+		"tags": ["Railway strikes"],
+		"url": "https://images1.livehindustan.com/uploadimage/library/2019/01/29/16_9/16_9_1/1974_behindwoods.com__1548739871.jpg"
+	},
+	{
+		"type": "image",
+		"tags": ["George Fernandes", "Railway strike"],
+		"url": "https://www.thetruepicture.org/wp-content/uploads/2019/01/1-24.jpg"
+	},
+	{
+		"type": "image",
+		"tags": ["George Fernandes", "Railway strike"],
+		"url": "https://smedia2.intoday.in/indiatoday/images/stories/1979May/railway_031214085802.jpg"
 	}]
 },
 {
-	"start": "01:30",
-	"end": "02:21",
+	"start": "02:28",
+	"end": "02:52",
 	"resources": [{
 		"type": "image",
-		"tags": ["Moola Virupaksha Temple"],
-		"url": "http://www.heritager.org/wp-content/uploads/2017/06/DSC_9511.jpg"
+		"tags": ["Pokhran"],
+		"url": 'https://akm-img-a-in.tosshub.com/indiatoday/indira_647_051816100754.jpg'
 	},
 	{
 		"type": "image",
-		"tags": ["landscape", "Hemakoota"],
-		"url": "https://i2.wp.com/vagabondimages.in/wp-content/uploads/2017/07/dsc_2173.jpg"
-	},
-	{
-		"type": "map:osm",
-		"tags": ["Hampiya Gadigalu", "Hampiya Meregalu", "boundaries of hampi", "Somanatha", "jambunatha", "kinnaresvara", "vanibhadresvara"],
-		"url": "https://www.openstreetmap.org/user/Janastu/traces/1396095"
-	}]
-},
-{
-	"start": "02:22",
-	"end": "03:30",
-	"resources": [{
-		"type": "embed",
-		"tags": ["bazaar street"],
-		"html": '<iframe width="450px" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?layer=c&amp;panoid=boUEu5B4HHUAAAGun9fxnQ&amp;ie=UTF8&amp;source=embed&amp;output=svembed&amp;cbp=13%2C285.07599999999996%2C%2C0%2C0" width="100%" height="317" frameborder="0"></iframe>'
-	},
-	{
-		"type": "embed",
-		"tags": ["Hemakoota hill"],
-		"html": '<iframe width="450px" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?layer=c&amp;panoid=l-Px1kxBUwkAAAQfCUedOQ&amp;ie=UTF8&amp;source=embed&amp;output=svembed&amp;cbp=13%2C234.34319999999997%2C%2C0%2C0" width="100%" height="400" frameborder="0"></iframe>'
+		"tags": ["Pokhran"],
+		"url": 'http://images.newindianexpress.com/uploads/user/imagelibrary/2017/5/18/original/A_crater_marks_the_.jpg'
 	},
 	{
 		"type": "image",
-		"tags": ["Girija Kalyana Sculpture"],
-		"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Depictions_of_the_Girija_Kalyana_%28marriage_of_Parvati_to_the_god_Shiva.jpg/800px-Depictions_of_the_Girija_Kalyana_%28marriage_of_Parvati_to_the_god_Shiva.jpg"
+		"tags": ["Pokhran"],
+		"url": "http://images.newindianexpress.com/uploads/user/imagelibrary/2017/5/18/original/Indira_Gandhi_then_nuclear.jpg"
+
+	},
+	{
+		"type": "image",
+		"tags": ["Pokhran"],
+		"url": "http://images.newindianexpress.com/uploads/user/imagelibrary/2017/5/18/original/The_first_nuclear_bkl.jpg"
 
 	}
 	]
 },
 {
-	"start": "03:31",
+	"start": "02:53",
 	"end": "04:12",
 	"resources": [
 	{
 		"type": "image",
-		"tags": ["Girija Kalyana Mural"],
-		"url": "http://www.artnewsnviews.com/userfiles/image/sep-11/antique-05.png"
+		"tags": ["JP"],
+		"url": "http://guruprasad.net/wp-content/uploads/2014/06/jp_speech.jpg"
 	},
 	{
 
 		"type": "image",
-		"tags": ["Manmatha Vijaya"],
-		"url": "https://i0.wp.com/detechter.com/wp-content/uploads/2017/09/shiva_kamadeva_rati-e1505553870627.jpg"
+		"tags": ["JP"],
+		"url": "https://images.livemint.com/rf/Image-621x414/LiveMint/Period1/2015/06/22/Photos/jpn-kuVE--621x414@LiveMint.jpg"
+	},
+	{
+
+		"type": "image",
+		"tags": ["JP"],
+		"url": "https://akm-img-a-in.tosshub.com/indiatoday/youthmomemts-dec25-1_647_121417060519_0.jpg"
 	}]
 },
 {
 	"start": "04:13",
-	"end": "05:29",
+	"end": "07:30",
 	"resources": [
 	{
 		"type": "image",
-		"tags": ["Oral Narrators of Hampi"],
-		"url": "http://team.servelots.com/my/pradeep/girijakalyana/narrators/narrators2.JPG"
+		"tags": ["Emergency"],
+		"url": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2016/10/29/514576-emergency-102816.jpg"
+	},
+	
+	{
+		"type": "image",
+		"tags": ["Sampoorna Kranti"],
+		"url": "https://i0.wp.com/www.sahisamay.com/wp-content/uploads/2016/08/jayprakash-narayan-sampoorn-kranti.jpg?w=599"
+	}
+	]
+},
+{
+	"start": "07:31",
+	"end": "16:027",
+	"resources": [
+	{
+		"type": "image",
+		"tags": ["Allahabad Court Judgement"],
+		"url": "https://images.slideplayer.com/14/4409035/slides/slide_8.jpg"
+	},
+	
+	{
+		"type": "image",
+		"tags": ["Allahabad Court Judgement"],
+		"url": "http://images.indiatvnews.com/politicsnational/2015/1435123967IE.jpg"
+	},
+	{
+		"type": "image",
+		"tags": ["Emergency"],
+		"url": "https://www.mtholyoke.edu/~ghosh20p/pictures/1975.jpg"
+	},
+	{
+		"type": "image",
+		"tags": ["Emergency"],
+		"url": "https://images.indianexpress.com/2018/06/express7591.jpg"
+	},
+	{
+		"type": "image",
+		"tags": ["Emergency"],
+		"url": "https://img.timesnownews.com/story/1530004055-emergency_rights.JPG?d=600x450"
+	},
+	{
+		"type": "image",
+		"tags": ["Emergency"],
+		"url": "https://s3.scoopwhoop.com/anj/duhh/466241227.jpg"
+	}
+	]
+},
+{
+	"start": "16:28",
+	"end": "16:30",
+	"resources": [
+	{
+		"type": "image",
+		"tags": ["Allahabad Court Judgement"],
+		"url": "https://images.slideplayer.com/14/4409035/slides/slide_8.jpg"
+	},
+	
+	{
+		"type": "image",
+		"tags": ["Allahabad Court Judgement"],
+		"url": "http://images.indiatvnews.com/politicsnational/2015/1435123967IE.jpg"
+	},
+	{
+		"type": "image",
+		"tags": ["Emergency"],
+		"url": "https://www.mtholyoke.edu/~ghosh20p/pictures/1975.jpg"
+	},
+	{
+		"type": "image",
+		"tags": ["Emergency"],
+		"url": "https://images.indianexpress.com/2018/06/express7591.jpg"
+	},
+	{
+		"type": "image",
+		"tags": ["Emergency"],
+		"url": "https://img.timesnownews.com/story/1530004055-emergency_rights.JPG?d=600x450"
+	},
+	{
+		"type": "image",
+		"tags": ["Emergency"],
+		"url": "https://s3.scoopwhoop.com/anj/duhh/466241227.jpg"
 	}
 	]
 }
