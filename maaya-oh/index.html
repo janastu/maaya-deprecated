@@ -420,7 +420,7 @@ $('.timer').click(function(e) {
   		OH.$audioPlayer.jPlayer({
   		  ready: function () {
   		    $(this).jPlayer("setMedia", {
-  		      title: 'Girija Kalyana of Hampi.',
+  		      title: OH.jsonld.headline,
   		      mp3: OH.jsonld.audio.contentUrl,
   		      artist: OH.jsonld.author
   		    });
