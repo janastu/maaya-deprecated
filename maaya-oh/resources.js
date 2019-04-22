@@ -122,7 +122,11 @@ window.resources = [{
 		"tags": ["Allahabad Court Judgement"],
 		"url": "https://images.slideplayer.com/14/4409035/slides/slide_8.jpg"
 	},
-	
+	{
+		"type": "image",
+		"tags": ["Excerpt from the book Left, Right and Centre: The Idea of India, edited by Nidhi Razdan."],
+		"url": "img/left-right-and-centre.png"
+	},
 	{
 		"type": "image",
 		"tags": ["Allahabad Court Judgement"],
@@ -147,11 +151,6 @@ window.resources = [{
 		"type": "image",
 		"tags": ["Emergency"],
 		"url": "https://s3.scoopwhoop.com/anj/duhh/466241227.jpg"
-	},
-	{
-		"type": "image",
-		"tags": ["Excerpt from the book Left, Right and Centre."],
-		"url": "img/left-right-and-centre.png"
 	}
 	]
 },
